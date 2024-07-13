@@ -1,8 +1,5 @@
-# Aws-project
-![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Kx0MunAnmkGYN-4AdXF2HQ.png)
-
 # AWS Cloud Cost Optimization - Identifying Stale Resources
-
+   ![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Kx0MunAnmkGYN-4AdXF2HQ.png)
 ## Identifying Stale EBS Snapshots
 
 ### Description:
