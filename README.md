@@ -14,3 +14,5 @@ Upon identifying a stale snapshot, the function proceeds to delete it. This proc
 
 To automate this cleanup process, the Lambda function is scheduled to run at regular intervals using Amazon CloudWatch Events. CloudWatch triggers the Lambda function automatically based on the defined schedule, ensuring regular identification and deletion of stale snapshots.
 
+we'll create a Lambda function that identifies EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
+
